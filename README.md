@@ -8,15 +8,15 @@ It contacts the API to pull the total amount of money that you've spent @ OVH.
 
 # Screenshot(s)
 
-![Screenshot 1](https://i-cdn.dawgy.pw/287738f13b.png)
+![Screenshot 1](https://i-cdn.dawgy.pw/2fa7ec0b59.png)
 
 # Creating an API Key on OVH
 
 Head to:
 
-- EU Users: [https://eu.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*](https://eu.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*)
-- CA Users: [https://ca.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*](https://ca.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*)
-- US Users: [https://us.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*](https://us.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*)
+- EU Users: [Click here](https://eu.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*)
+- CA Users: [Click here](https://ca.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*)
+- US Users: [Click here](https://us.api.ovh.com/createToken/index.cgi?GET=/*&PUT=/*&POST=/*&DELETE=/*)
 
 Once you head to the (region-specific) page, you'll need to sign in.
 
