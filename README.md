@@ -1,3 +1,7 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
+Please use the code at your own risk.
+
 # ovh-api-counter-port
 
 Port (in Java) for OVH Counter (https://github.com/HarryC145/OVH-API/blob/master/Depression.py)
